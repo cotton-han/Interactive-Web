@@ -22,6 +22,8 @@
     transition-timing-function: linear;
     transition-timing-function: step-end;
     ```
+    ![캡처](https://user-images.githubusercontent.com/39231606/120195732-12038d80-c25a-11eb-84b3-ecbaf5048870.PNG)
+
 
 4. transition-delay: 트랜지션이 시작되기까지 기다리는 시간
 
